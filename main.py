@@ -1,4 +1,4 @@
-from orchestrator import analyze_page, save_full_report_to_html
+from orchestrator import analyze_page
 from drive import launch_browser, run_axe_scan
 
 
