@@ -1,8 +1,8 @@
-.env
+*.env
 __pycache__/
 *.pyc
 *.log
 venv/
 .idea/
 .DS_Store
-.html
+*.html

@@ -3,7 +3,7 @@ from drive import launch_browser, run_axe_scan
 
 
 if __name__ == "__main__":
-    url = "https://www.facebook.com"
+    url = "https://www.instagram.com"
     print(f"\n🔍 Analyzing: {url}")
 
     driver = launch_browser()
@@ -12,8 +12,5 @@ if __name__ == "__main__":
         result = analyze_page(url)
         print("\n📋 ChatGPT Accessibility Suggestions:\n")
         print(result)
-
-        # Save full report
-        save_full_report_to_html(violations, result)
     finally:
         driver.quit()
