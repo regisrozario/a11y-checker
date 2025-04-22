@@ -26,3 +26,6 @@ python main.py
 # a11y-checker
 
 ```
+
+## Analysis
+![Screenshot 2025-04-21 at 10 24 05 PM](https://github.com/user-attachments/assets/202c435d-c2af-42b0-86c8-1426e57833c3)
