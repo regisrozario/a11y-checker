@@ -28,4 +28,4 @@ python main.py
 ```
 
 ## Analysis
-![Screenshot 2025-04-21 at 10 24 05 PM](https://github.com/user-attachments/assets/202c435d-c2af-42b0-86c8-1426e57833c3)
+![Screenshot 2025-04-21 at 10 37 40 PM](https://github.com/user-attachments/assets/1681e77a-bbb9-4b87-83f9-3f36b94258b9)
